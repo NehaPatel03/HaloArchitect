@@ -36,7 +36,7 @@ function App() {
             <motion.h1
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
-              className="text-white text-6xl md:text-8xl font-bold tracking-wider font-bold"
+              className="text-white text-6xl md:text-8xl font-light tracking-wider font-bold"
             >
               {'HALO ARCHITECT'.split('').map((letter, index) => (
                 <motion.span
@@ -66,7 +66,7 @@ function App() {
                     initial={{ opacity: 0, x: -20 }}
                     animate={{ opacity: 1, x: 0 }}
                     transition={{ delay: 0.5 }}
-                    className="text-white text-4xl md:text-6xl font-bold mb-6 font-bold"
+                    className="text-white text-4xl md:text-6xl font-light mb-6 font-bold"
                   >
                     HALO ARCHITECT
                   </motion.h2>
@@ -77,7 +77,7 @@ function App() {
                         initial={{ opacity: 0, x: -20 }}
                         animate={{ opacity: 1, x: 0 }}
                         transition={{ delay: 0.7 }}
-                        className="text-white text-lg mb-8"
+                        className="text-white/70 text-lg mb-8"
                       >
                         Revolutionizing architectural design through cutting-edge AI technology.
                         We blend creativity with artificial intelligence to create spaces that
