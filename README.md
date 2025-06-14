@@ -39,6 +39,9 @@
 - **CSS**
 - **JavaScript**
 
+## Live Demo: 
+[Click here to view the project](https://drive.google.com/file/d/1C8AWFkIxvZN6SEmJSXu3vn9SpVmFAxiN/view?usp=drive_link)
+
 ## Contribution
 
 Contributions to **HALOArchitect** are welcome! Whether it’s enhancing the UI, adding new features, or improving performance, your input is valuable.
